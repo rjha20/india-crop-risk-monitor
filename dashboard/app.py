@@ -95,11 +95,12 @@ def apply_filters(frame: pd.DataFrame, state: str, crop: str, season: str) -> pd
 
 
 def render_data_quality(profile: dict[str, Any]) -> None:
-    columns = st.columns(4)
-    columns[0].metric("Source rows", f"{profile['rows']:,}")
-    columns[1].metric("States / UTs", f"{profile['states']:,}")
-    columns[2].metric("Districts", f"{profile['districts']:,}")
-    columns[3].metric("Crop identifiers", f"{profile['crops']:,}")
+    first_row = st.columns(2)
+    first_row[0].metric("Source rows", f"{profile['rows']:,}")
+    first_row[1].metric("States / UTs", f"{profile['states']:,}")
+    second_row = st.columns(2)
+    second_row[0].metric("Districts", f"{profile['districts']:,}")
+    second_row[1].metric("Crop identifiers", f"{profile['crops']:,}")
 
 
 st.title("🌾 CropLens India")
@@ -182,11 +183,12 @@ latest_with_baseline = latest_scope.dropna(subset=["yield_anomaly_pct"])
 latest_flags = latest_with_baseline[latest_with_baseline["yield_anomaly_pct"] <= RISK_THRESHOLD_PCT]
 latest_median_anomaly = latest_with_baseline["yield_anomaly_pct"].median()
 
-kpi1, kpi2, kpi3, kpi4 = st.columns(4)
-kpi1.metric("Records in view", f"{len(scope):,}")
-kpi2.metric("Latest source season", latest_label)
-kpi3.metric("Latest rows with baseline", f"{len(latest_with_baseline):,}")
-kpi4.metric(
+overview_kpis_top = st.columns(2)
+overview_kpis_top[0].metric("Records in view", f"{len(scope):,}")
+overview_kpis_top[1].metric("Latest source season", latest_label)
+overview_kpis_bottom = st.columns(2)
+overview_kpis_bottom[0].metric("Latest rows with baseline", f"{len(latest_with_baseline):,}")
+overview_kpis_bottom[1].metric(
     "Observed low-yield flags",
     f"{len(latest_flags):,}",
     help=f"Yield at least {abs(RISK_THRESHOLD_PCT):.0f}% below the prior 5-year median.",
@@ -333,18 +335,19 @@ with model_tab:
             st.info(evaluation.get("message", "More history is required for evaluation."))
         else:
             overall = evaluation["overall"]
-            metric_cols = st.columns(4)
-            metric_cols[0].metric("Out-of-time rows", f"{overall['holdout_rows']:,}")
-            metric_cols[1].metric(
+            metric_cols_top = st.columns(2)
+            metric_cols_top[0].metric("Out-of-time rows", f"{overall['holdout_rows']:,}")
+            metric_cols_top[1].metric(
                 "Average precision",
                 "Not available" if overall["average_precision"] is None else f"{overall['average_precision']:.3f}",
             )
-            metric_cols[2].metric(
+            metric_cols_bottom = st.columns(2)
+            metric_cols_bottom[0].metric(
                 "Prevalence baseline",
                 f"{overall['baseline_average_precision']:.3f}",
                 help="Average precision of a constant score equals the positive class prevalence.",
             )
-            metric_cols[3].metric(
+            metric_cols_bottom[1].metric(
                 "Brier score",
                 f"{overall['brier_score']:.3f}",
                 delta=f"{overall['brier_score'] - overall['baseline_brier_score']:+.3f} vs prevalence",
@@ -403,12 +406,14 @@ with source_tab:
         """
     )
     st.markdown("**Source-quality checks**")
-    quality1, quality2, quality3, quality4, quality5 = st.columns(5)
-    quality1.metric("Rows with missing yield", f"{profile['missing_yield_rows']:,}")
-    quality2.metric("Duplicate panel keys", f"{profile['duplicate_key_rows']:,}")
-    quality3.metric("Negative reported yields", f"{profile['negative_yield_rows']:,}")
-    quality4.metric("Missing district codes", f"{profile['missing_district_code_rows']:,}")
-    quality5.metric("Missing crop codes", f"{profile['missing_crop_code_rows']:,}")
+    quality_row_1 = st.columns(2)
+    quality_row_1[0].metric("Rows with missing yield", f"{profile['missing_yield_rows']:,}")
+    quality_row_1[1].metric("Duplicate panel keys", f"{profile['duplicate_key_rows']:,}")
+    quality_row_2 = st.columns(2)
+    quality_row_2[0].metric("Negative reported yields", f"{profile['negative_yield_rows']:,}")
+    quality_row_2[1].metric("Missing district codes", f"{profile['missing_district_code_rows']:,}")
+    quality_row_3 = st.columns(2)
+    quality_row_3[0].metric("Missing crop codes", f"{profile['missing_crop_code_rows']:,}")
     st.markdown("**Known limitations**")
     st.markdown(
         """
