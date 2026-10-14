@@ -38,13 +38,18 @@ running it on a server. The Streamlit process does not expose an action API or a
 ## Streamlit Community Cloud publication
 
 The public source repository is [`rjha20/india-crop-risk-monitor`](https://github.com/rjha20/india-crop-risk-monitor).
-The Streamlit Community Cloud instance has not yet been created.
+The public app is deployed at
+[`india-crop-risk-monitor-nevlby7n8ktn6kekbs2v6q.streamlit.app`](https://india-crop-risk-monitor-nevlby7n8ktn6kekbs2v6q.streamlit.app/)
+under the `rjha20` Streamlit/GitHub account.
 
-1. Sign in to Streamlit Community Cloud with the `rjha20` GitHub account and grant access to that repository.
-2. Create an app using its `main` branch, entrypoint `dashboard/app.py`, and Python 3.12.
-3. Wait for build completion, open the resulting public URL, and inspect the first-render source status and
-   source attribution.
-4. Confirm the app can fall back to the committed snapshot when the data source is unreachable.
+Deployment configuration: repository `rjha20/india-crop-risk-monitor`, branch `main`, entrypoint
+`dashboard/app.py`, Python 3.12. The 14 October 2026 first-load check confirmed a live APY/UPAG source
+connection with 156,189 records; the production overview, observed-decline view, and chronological
+model-validation tab rendered. A hosted source-outage simulation has not been performed.
+
+To operate or redeploy, sign in to Streamlit Community Cloud with the linked `rjha20` account, review the
+app logs and source status, then push reviewed source changes to `main`. The app needs no Streamlit secret
+for its current public data source.
 
 The current dashboard requires no API key or Streamlit secret. Never add a GitHub token, account password,
 or other secret to this repository. Streamlit Community Cloud uses GitHub authentication and requires

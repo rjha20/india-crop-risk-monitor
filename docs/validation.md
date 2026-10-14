@@ -15,12 +15,14 @@
 - NLP bulletin extraction and the plant-leaf CV benchmark remain independent research modules; neither is
   paired with this district-year dataset.
 
-## Release checks still required
+## Deployment and ongoing validation
 
 1. **Source continuity:** verify the current India Data Portal endpoint and license on every snapshot
    refresh; review any changes in units, crop/district codes, source vintage, or schema.
-2. **Public deployment:** publish only under the requested `rjha20` account, deploy the `dashboard/app.py`
-   entrypoint, and verify live-source and snapshot-fallback states in the hosted app.
+2. **Public deployment (complete):** the app is live under `rjha20` at
+   [india-crop-risk-monitor-nevlby7n8ktn6kekbs2v6q.streamlit.app](https://india-crop-risk-monitor-nevlby7n8ktn6kekbs2v6q.streamlit.app/).
+   The first hosted render fetched 156,189 live rows and the hosted model backtest completed. A hosted source-outage
+   simulation of the snapshot fallback is still outstanding.
 3. **Temporal robustness:** rerun rolling-origin evaluation when the source updates; compare against
    prevalence and constant-risk baselines; review performance by crop/state/year before interpreting scores.
 4. **Source quality:** inspect missingness, row counts, district splits/mergers, estimate revisions, and
@@ -32,5 +34,5 @@
 7. **CV:** use group-disjoint splits, an external field-image evaluation, per-class metrics, and source/license
    review. Do not transfer controlled-image scores to field diagnosis claims.
 
-The app is prepared for public portfolio hosting but has not been published. It is not approved for
+The public portfolio app is deployed and its first live-source render was verified. It is not approved for
 operational agricultural, insurance, credit, or government decisions.
