@@ -37,14 +37,14 @@ running it on a server. The Streamlit process does not expose an action API or a
 
 ## Streamlit Community Cloud publication
 
-The project is prepared for Community Cloud, but it has not been published yet.
+The public source repository is [`rjha20/india-crop-risk-monitor`](https://github.com/rjha20/india-crop-risk-monitor).
+The Streamlit Community Cloud instance has not yet been created.
 
-1. Publish the reviewed code and attributed fallback snapshot to a public repository owned by `rjha20`.
-2. Sign in to Streamlit Community Cloud with the same `rjha20` GitHub account and grant access to that repo.
-3. Create an app using the repository's default branch, entrypoint `dashboard/app.py`, and Python 3.12.
-4. Wait for build completion, open the resulting public URL, and inspect the first-render source status and
+1. Sign in to Streamlit Community Cloud with the `rjha20` GitHub account and grant access to that repository.
+2. Create an app using its `main` branch, entrypoint `dashboard/app.py`, and Python 3.12.
+3. Wait for build completion, open the resulting public URL, and inspect the first-render source status and
    source attribution.
-5. Confirm the app can fall back to the committed snapshot when the data source is unreachable.
+4. Confirm the app can fall back to the committed snapshot when the data source is unreachable.
 
 The current dashboard requires no API key or Streamlit secret. Never add a GitHub token, account password,
 or other secret to this repository. Streamlit Community Cloud uses GitHub authentication and requires

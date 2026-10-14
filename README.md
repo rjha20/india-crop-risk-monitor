@@ -22,8 +22,9 @@ attribution, and includes a time-ordered machine-learning backtest.
   model card with explicit use limits.
 
 The source data is annual and the newest outcome vintage in this snapshot is 2024-25. The dashboard does
-not claim to know current 2026 field conditions. Public deployment is prepared for Streamlit Community Cloud;
-the repository and app still need to be published under the requested `rjha20` account.
+not claim to know current 2026 field conditions. The source repository is public at
+[rjha20/india-crop-risk-monitor](https://github.com/rjha20/india-crop-risk-monitor). A hosted Streamlit
+instance still needs to be created from that repository by a Community Cloud session authorized as `rjha20`.
 
 ## Run locally
 
@@ -77,10 +78,9 @@ results are separate from the observed APY/UPAG dashboard and are never shown as
 
 ## Deployment
 
-1. Publish this project as a **public** GitHub repository owned by `rjha20`.
-2. Connect Streamlit Community Cloud using the same GitHub account.
-3. Select the repository's `main` branch and `dashboard/app.py` as the app entrypoint; select Python 3.12.
-4. Review the app URL, source status, attribution, and deployment logs after the first launch.
+1. Connect Streamlit Community Cloud using the `rjha20` GitHub account.
+2. Select `rjha20/india-crop-risk-monitor`, branch `main`, and `dashboard/app.py` as the app entrypoint; select Python 3.12.
+3. Review the app URL, source status, attribution, and deployment logs after the first launch.
 
 Detailed steps and current publication status are in `docs/runbook.md`. No GitHub or hosting secrets belong
 in this repository; the current data endpoint does not require one.
