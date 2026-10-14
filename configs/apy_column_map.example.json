@@ -1,0 +1,11 @@
+{
+  "state": "State",
+  "district": "District",
+  "crop": "Crop",
+  "season": "Season",
+  "season_year": "Year",
+  "area": "Area",
+  "production": "Production",
+  "district_id": null,
+  "notes": "Replace each value with the exact inspected source column name. If district_id is null, supply a reviewed crosswalk with state,district,district_id."
+}

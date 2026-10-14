@@ -1,0 +1,571 @@
+district_id,state,district,crop,season,season_year,rainfall_mm,rainfall_anomaly_pct,dry_spell_days,heat_days,excess_rain_days,ndvi_mean,ndvi_trend,ndvi_valid_obs,coverage_score,issue_day,feature_end_day,data_status,source_id
+BR-PAT,Bihar,Patna,rice,kharif,2008,787.68,-12.48,13,0,2,0.6202,0.009,10,0.971,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2009,1136.79,26.31,4,3,3,0.6796,0.0117,6,0.953,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2010,1033.2,14.8,4,8,2,0.7,-0.0282,7,0.947,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2011,867.33,-3.63,10,8,0,0.6505,-0.0024,6,0.938,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2012,903.15,0.35,0,0,0,0.7171,-0.0086,10,0.829,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2013,969.3,7.7,7,9,3,0.7186,-0.0214,5,0.831,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2014,788.4,-12.4,10,7,4,0.684,0.0139,8,0.99,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2015,822.69,-8.59,13,7,2,0.6795,0.0195,5,0.804,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2016,437.58,-51.38,25,4,0,0.7098,0.0047,6,0.857,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2017,1037.16,15.24,9,5,3,0.6322,-0.0137,10,0.888,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2018,534.6,-40.6,25,8,1,0.6079,-0.0085,6,0.879,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2019,868.14,-3.54,2,5,0,0.7355,-0.0046,9,0.99,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2020,1348.11,49.79,7,10,4,0.6979,0.0026,9,0.796,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2021,1063.53,18.17,5,3,5,0.7008,0.0027,6,0.86,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2022,660.06,-26.66,17,4,2,0.669,-0.0476,8,0.844,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2023,833.4,-7.4,12,0,0,0.6342,-0.014,6,0.926,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2024,988.65,9.85,13,0,3,0.7176,-0.0075,10,0.907,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2025,963.72,7.08,7,9,2,0.5927,0.0104,5,0.949,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2026,982.08,9.12,5,5,5,0.6599,0.019,5,0.909,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2008,467.84,11.39,10,5,3,0.7304,0.0259,7,0.91,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2009,429.37,2.23,14,3,2,0.6993,-0.0081,8,0.895,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2010,409.71,-2.45,8,6,3,0.6835,0.0113,10,0.823,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2011,304.42,-27.52,22,4,1,0.6209,-0.0178,8,0.917,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2012,365.11,-13.07,15,4,4,0.7021,0.0289,7,0.987,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2013,438.61,4.43,7,6,0,0.6959,-0.0017,9,0.866,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2014,530.67,26.35,3,8,0,0.7202,0.0087,10,0.867,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2015,413.83,-1.47,8,10,0,0.6608,-0.0014,10,0.855,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2016,350.99,-16.43,17,3,3,0.7214,-0.0005,5,0.798,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2017,525.5,25.12,15,0,2,0.716,0.0316,9,0.889,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2018,293.37,-30.15,22,4,7,0.66,0.0136,10,0.977,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2019,354.44,-15.61,22,4,0,0.656,0.0169,5,0.996,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2020,581.32,38.41,13,7,1,0.7201,0.0183,8,0.917,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2021,452.51,7.74,12,5,3,0.6952,0.0047,8,0.893,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2022,402.4,-4.19,13,10,3,0.6322,-0.0175,5,0.96,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2023,542.14,29.08,10,6,3,0.7841,-0.0123,8,0.796,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2024,451.21,7.43,12,8,4,0.7083,-0.0321,6,0.897,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2025,446.0,6.19,12,8,2,0.6693,0.0097,5,0.782,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2026,453.26,7.92,12,7,0,0.6561,-0.0143,6,0.922,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2008,643.5,-1.0,12,6,2,0.6745,-0.0019,8,0.826,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2009,665.86,2.44,5,0,1,0.736,0.0032,8,0.953,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2010,797.42,22.68,5,7,0,0.6997,0.0235,6,0.927,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2011,739.7,13.8,5,6,3,0.6803,0.0039,8,0.899,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2012,748.41,15.14,18,5,5,0.6817,0.0154,5,0.924,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2013,494.46,-23.93,24,5,2,0.6674,0.0139,5,0.795,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2014,618.48,-4.85,12,12,2,0.634,0.0437,6,0.912,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2015,741.91,14.14,4,9,3,0.6868,0.0107,7,0.936,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2016,595.79,-8.34,8,2,2,0.6308,0.0023,8,0.869,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2017,608.99,-6.31,10,1,2,0.7145,-0.0193,6,0.961,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2018,437.71,-32.66,17,3,3,0.6535,0.0053,5,0.973,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2019,703.82,8.28,7,5,2,0.7309,0.0155,7,0.865,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2020,952.32,46.51,16,7,4,0.7499,-0.0405,5,0.828,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2021,467.81,-28.03,11,4,3,0.6443,-0.0015,7,0.888,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2022,683.93,5.22,11,5,0,0.7017,-0.01,9,0.813,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2023,674.96,3.84,6,7,0,0.6921,-0.0205,9,0.881,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2024,541.51,-16.69,11,5,3,0.6378,-0.008,5,0.943,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2025,442.78,-31.88,21,5,0,0.6441,-0.0026,8,0.957,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2026,638.43,-1.78,8,5,3,0.7453,0.0228,9,0.926,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2008,861.3,-4.3,11,4,0,0.6878,-0.02,8,0.948,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2009,900.09,0.01,7,4,4,0.6721,0.021,7,0.855,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2010,720.99,-19.89,22,14,0,0.5785,-0.0015,7,0.948,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2011,958.23,6.47,10,10,1,0.6956,-0.014,6,0.793,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2012,904.32,0.48,6,6,4,0.6323,0.004,6,0.926,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2013,936.99,4.11,6,3,2,0.6966,0.0097,9,0.873,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2014,833.31,-7.41,5,2,3,0.6378,0.028,5,0.843,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2015,842.04,-6.44,13,10,3,0.6679,0.0026,8,0.789,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2016,720.81,-19.91,19,4,1,0.6244,-0.0008,10,0.955,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2017,985.86,9.54,9,2,0,0.623,0.0096,10,0.863,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2018,445.23,-50.53,25,4,0,0.6882,-0.0144,6,0.998,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2019,829.53,-7.83,12,6,0,0.6996,0.0037,6,0.808,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2020,1211.31,34.59,1,8,3,0.7146,-0.0185,7,0.878,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2021,945.09,5.01,5,5,0,0.6053,0.0426,8,0.963,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2022,971.19,7.91,12,7,4,0.6977,0.0209,10,0.961,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2023,931.59,3.51,14,2,0,0.6804,0.0111,7,0.803,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2024,789.75,-12.25,8,5,1,0.6816,-0.0118,7,0.933,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2025,676.44,-24.84,12,10,0,0.6077,0.0013,5,0.849,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2026,743.4,-17.4,19,7,7,0.6038,-0.012,5,0.934,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2008,310.38,-26.1,16,0,0,0.709,-0.0129,8,0.908,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2009,317.39,-24.43,12,0,0,0.6726,-0.0112,6,0.903,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2010,403.41,-3.95,11,6,1,0.7008,0.0038,6,0.787,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2011,354.4,-15.62,13,2,0,0.6551,0.0021,8,0.848,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2012,360.57,-14.15,14,2,0,0.5967,-0.0174,10,0.948,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2013,343.22,-18.28,10,4,1,0.5724,0.018,6,0.844,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2014,343.56,-18.2,12,0,0,0.7123,-0.004,8,0.876,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2015,403.33,-3.97,7,8,5,0.6779,-0.023,7,0.91,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2016,403.33,-3.97,17,1,2,0.6449,0.0086,9,0.875,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2017,415.55,-1.06,10,1,0,0.6178,0.0079,8,0.925,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2018,267.25,-36.37,19,5,2,0.6861,-0.0215,9,0.829,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2019,401.52,-4.4,11,4,2,0.669,-0.0035,5,0.941,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2020,429.74,2.32,8,8,1,0.6727,0.0321,5,0.829,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2021,361.91,-13.83,15,6,1,0.6901,-0.0081,10,0.89,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2022,346.54,-17.49,18,13,4,0.6164,-0.023,7,0.957,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2023,282.16,-32.82,19,3,1,0.6124,0.0158,5,0.942,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2024,480.44,14.39,7,6,0,0.7066,-0.0221,9,0.985,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2025,303.79,-27.67,17,11,0,0.6659,0.0162,10,0.879,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2026,239.69,-42.93,29,6,4,0.688,-0.0073,8,0.867,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2008,755.75,16.27,10,7,0,0.6459,-0.0032,5,0.784,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2009,461.05,-29.07,17,0,0,0.6801,-0.0048,6,0.958,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2010,600.67,-7.59,6,11,1,0.645,0.0399,10,0.947,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2011,439.34,-32.41,29,3,4,0.6588,-0.0381,5,0.826,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2012,699.14,7.56,5,6,6,0.639,-0.0185,8,0.959,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2013,665.01,2.31,7,4,5,0.713,0.0352,9,0.791,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2014,769.66,18.41,4,9,0,0.6601,-0.0154,10,0.962,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2015,791.05,21.7,11,6,0,0.7103,0.0194,9,0.819,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2016,671.0,3.23,1,0,0,0.6878,-0.0231,5,0.814,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2017,775.32,19.28,5,3,0,0.71,-0.0058,9,0.813,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2018,395.07,-39.22,26,5,1,0.7111,-0.0018,10,0.959,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2019,573.62,-11.75,10,0,0,0.5951,-0.0054,9,0.903,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2020,897.46,38.07,19,9,2,0.6958,0.0,6,0.828,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2021,739.44,13.76,3,6,0,0.7526,-0.0088,9,0.851,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2022,776.23,19.42,6,2,1,0.6807,0.0286,6,0.925,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2023,760.7,17.03,8,8,3,0.672,-0.0158,8,0.995,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2024,523.12,-19.52,13,3,0,0.6474,-0.0058,6,0.99,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2025,529.55,-18.53,17,16,2,0.5662,0.0555,7,0.834,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2026,727.02,11.85,7,5,1,0.7014,0.0083,6,0.93,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2008,1161.36,29.04,3,2,3,0.7085,0.0057,9,0.805,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2009,868.14,-3.54,7,1,2,0.6878,-0.0395,9,0.983,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2010,1020.42,13.38,10,7,0,0.6553,0.0326,8,0.816,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2011,797.76,-11.36,13,3,3,0.6756,-0.0051,9,0.794,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2012,974.88,8.32,12,2,4,0.6954,0.0118,10,0.955,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2013,820.53,-8.83,12,5,2,0.7277,-0.0265,7,0.833,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2014,903.69,0.41,8,7,0,0.6476,0.0104,10,0.906,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2015,954.45,6.05,3,9,3,0.6976,0.0082,10,0.806,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2016,957.33,6.37,19,11,0,0.6765,-0.0089,10,0.782,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2017,993.42,10.38,10,3,0,0.7124,0.0171,9,0.965,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2018,529.02,-41.22,20,5,4,0.6443,0.0093,6,0.875,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2019,887.67,-1.37,7,6,1,0.7135,-0.0104,8,0.796,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2020,1252.62,39.18,4,7,1,0.7047,-0.0157,6,0.797,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2021,1014.66,12.74,6,2,2,0.6961,0.0145,10,0.825,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2022,753.57,-16.27,16,4,2,0.6136,0.0054,5,0.791,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2023,799.47,-11.17,10,6,5,0.6516,0.0136,9,0.855,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2024,892.8,-0.8,13,3,0,0.6893,-0.0016,7,0.981,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2025,686.34,-23.74,22,11,3,0.6134,0.0171,7,0.919,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2026,958.95,6.55,17,7,1,0.671,0.0017,8,0.955,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2008,386.61,-7.95,10,9,1,0.6341,0.0165,9,0.99,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2009,323.82,-22.9,15,4,0,0.6588,0.0045,5,0.972,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2010,485.27,15.54,2,12,0,0.5826,0.0045,6,0.832,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2011,335.2,-20.19,11,1,1,0.6562,-0.0003,10,0.848,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2012,381.49,-9.17,15,3,0,0.6248,-0.0024,9,0.937,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2013,353.22,-15.9,10,5,1,0.7142,0.0079,8,0.806,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2014,451.75,7.56,9,5,0,0.6899,0.0119,9,0.86,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2015,334.7,-20.31,18,7,3,0.6829,-0.0196,5,0.918,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2016,335.79,-20.05,13,1,1,0.6527,0.0157,10,0.854,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2017,461.03,9.77,8,5,4,0.6484,0.0164,5,0.989,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2018,328.78,-21.72,14,5,1,0.5939,-0.0367,10,0.949,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2019,364.98,-13.1,11,0,1,0.7266,-0.0068,9,0.797,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2020,533.02,26.91,7,8,3,0.746,0.0249,5,0.972,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2021,376.03,-10.47,17,7,0,0.6581,-0.0204,6,0.87,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2022,419.41,-0.14,10,3,1,0.7582,-0.0101,8,0.837,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2023,497.2,18.38,9,3,1,0.7472,-0.0171,9,0.787,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2024,472.25,12.44,7,4,5,0.7447,0.0174,9,0.834,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2025,342.34,-18.49,22,13,2,0.6011,-0.015,6,0.982,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2026,459.9,9.5,5,10,4,0.6642,-0.022,9,0.908,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2008,605.41,-6.86,7,1,2,0.6797,0.0075,5,0.952,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2009,741.39,14.06,6,5,5,0.7187,0.0112,9,0.853,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2010,625.04,-3.84,10,14,4,0.5831,-0.0053,6,0.912,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2011,729.56,12.24,2,6,0,0.641,-0.0072,6,0.788,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2012,610.02,-6.15,6,8,4,0.7016,-0.0013,10,0.797,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2013,717.14,10.33,4,2,1,0.7494,-0.0181,10,0.928,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2014,497.12,-23.52,13,2,2,0.6417,0.0076,5,0.827,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2015,793.06,22.01,10,12,2,0.6461,-0.0161,7,0.802,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2016,614.83,-5.41,12,0,0,0.6857,-0.0042,6,0.837,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2017,469.3,-27.8,14,7,2,0.6463,0.0331,8,0.886,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2018,513.76,-20.96,18,0,1,0.6276,0.012,8,0.806,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2019,538.07,-17.22,13,9,1,0.6677,0.0398,7,0.898,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2020,852.54,31.16,2,9,1,0.6853,-0.0164,6,0.828,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2021,681.85,4.9,5,5,0,0.6722,-0.016,8,0.793,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2022,676.2,4.03,6,5,5,0.6533,-0.0272,9,0.785,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2023,512.0,-21.23,14,9,0,0.5697,0.0181,10,0.85,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2024,785.13,20.79,10,2,4,0.6751,0.0115,5,0.89,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2025,227.5,-65.0,32,14,2,0.5106,-0.0123,5,0.849,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2026,728.2,12.03,6,13,4,0.6439,0.0114,9,0.849,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2008,945.09,5.01,5,8,1,0.7258,0.0046,10,0.944,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2009,858.69,-4.59,10,3,2,0.5908,-0.0253,9,0.922,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2010,915.66,1.74,7,10,2,0.6781,0.0005,7,0.918,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2011,1070.19,18.91,13,8,0,0.7647,0.0372,10,0.844,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2012,1022.58,13.62,9,6,1,0.6624,-0.019,8,0.869,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2013,1173.06,30.34,10,5,0,0.6676,0.007,9,0.819,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2014,988.02,9.78,4,4,0,0.6586,-0.0025,6,0.983,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2015,863.73,-4.03,7,13,0,0.6198,0.0158,10,0.804,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2016,1241.73,37.97,16,5,2,0.6527,-0.0042,5,0.974,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2017,1029.87,14.43,12,0,0,0.6736,0.0153,10,0.847,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2018,502.47,-44.17,24,0,3,0.6374,-0.0324,6,0.948,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2019,901.17,0.13,11,7,3,0.6952,-0.0076,9,0.909,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2020,927.36,3.04,7,6,1,0.653,-0.0224,7,0.951,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2021,813.69,-9.59,12,1,1,0.6914,0.0075,7,0.873,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2022,862.74,-4.14,13,9,0,0.6649,-0.0173,10,0.875,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2023,1156.14,28.46,12,9,2,0.6849,-0.0081,7,0.932,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2024,965.52,7.28,12,4,5,0.692,-0.0393,5,0.962,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2025,631.8,-29.8,20,7,0,0.7155,-0.0106,9,0.91,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2026,961.47,6.83,9,8,4,0.7033,-0.0139,10,0.888,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2008,377.24,-10.18,11,9,0,0.6967,0.0226,6,0.924,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2009,336.59,-19.86,12,0,0,0.5845,-0.007,10,0.956,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2010,389.59,-7.24,4,7,2,0.5975,0.0152,6,0.839,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2011,588.04,40.01,1,7,6,0.6938,-0.001,7,0.86,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2012,393.67,-6.27,6,10,0,0.648,-0.0486,6,0.882,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2013,501.44,19.39,9,1,2,0.7238,0.0294,7,0.8,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2014,514.88,22.59,6,3,0,0.7597,0.0197,7,0.795,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2015,426.8,1.62,10,13,1,0.595,-0.0067,8,0.936,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2016,377.58,-10.1,9,4,0,0.6551,0.0212,10,0.892,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2017,503.03,19.77,14,5,2,0.6599,-0.0308,10,0.924,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2018,195.55,-53.44,27,1,3,0.632,-0.0587,7,0.781,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2019,372.83,-11.23,12,3,0,0.687,0.0241,5,0.924,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2020,630.5,50.12,7,10,7,0.6904,-0.0003,7,0.896,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2021,423.4,0.81,12,0,1,0.7426,-0.0156,6,0.979,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2022,507.57,20.85,6,5,2,0.7015,0.0117,7,0.86,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2023,497.66,18.49,14,3,0,0.7221,-0.0002,7,0.844,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2024,372.71,-11.26,13,3,0,0.6657,0.0122,5,0.911,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2025,276.28,-34.22,19,6,0,0.5913,-0.0159,6,0.817,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2026,246.58,-41.29,19,6,1,0.595,0.0203,8,0.918,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2008,623.74,-4.04,11,5,3,0.6603,0.015,6,0.874,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2009,566.67,-12.82,8,1,3,0.6444,-0.0235,6,0.887,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2010,618.15,-4.9,14,3,0,0.6911,0.0369,6,0.814,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2011,712.4,9.6,8,7,3,0.6779,-0.0014,8,0.82,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2012,641.81,-1.26,9,5,0,0.7363,0.0125,10,0.883,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2013,708.31,8.97,17,5,0,0.7094,0.0098,6,0.855,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2014,445.38,-31.48,23,7,3,0.5495,-0.0034,7,0.947,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2015,476.78,-26.65,15,14,1,0.5453,-0.0137,8,0.795,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2016,559.46,-13.93,22,7,2,0.7015,-0.0134,10,0.921,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2017,550.16,-15.36,10,7,0,0.6262,0.0058,7,0.974,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2018,415.35,-36.1,26,2,3,0.6736,0.0067,10,0.979,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2019,811.0,24.77,7,0,0,0.6783,-0.0214,8,0.822,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2020,647.21,-0.43,9,12,3,0.6002,0.0151,9,0.801,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2021,750.88,15.52,12,1,1,0.6784,0.0152,5,0.882,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2022,586.37,-9.79,4,4,2,0.6726,-0.0236,8,0.938,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2023,698.36,7.44,11,5,2,0.7284,0.0052,7,0.921,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2024,558.41,-14.09,15,5,1,0.6525,-0.0035,9,0.889,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2025,333.06,-48.76,27,6,2,0.6413,0.0063,6,0.945,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2026,640.06,-1.53,11,1,0,0.6947,0.0059,6,0.97,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2008,807.75,-10.25,10,6,1,0.6718,0.0027,5,0.81,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2009,858.87,-4.57,15,5,0,0.7379,0.021,6,0.933,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2010,761.4,-15.4,15,9,1,0.602,-0.0309,9,0.852,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2011,912.24,1.36,3,6,2,0.6766,0.0346,10,0.805,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2012,760.23,-15.53,8,4,0,0.6575,-0.0242,8,0.992,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2013,783.9,-12.9,10,2,0,0.6612,0.0091,8,0.882,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2014,792.63,-11.93,18,0,0,0.6704,-0.0398,9,0.916,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2015,1090.89,21.21,9,10,2,0.6342,-0.0071,5,0.804,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2016,747.63,-16.93,16,6,1,0.7083,0.0011,9,0.785,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2017,990.63,10.07,8,7,2,0.6505,0.0129,7,0.964,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2018,822.51,-8.61,9,4,1,0.7007,0.0199,10,0.963,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2019,771.84,-14.24,10,5,2,0.6161,-0.0144,5,0.959,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2020,1444.41,60.49,10,10,3,0.7172,0.0083,9,0.954,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2021,1044.81,16.09,7,1,3,0.6358,-0.0093,7,0.871,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2022,839.43,-6.73,13,2,0,0.6562,-0.011,7,0.883,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2023,1040.67,15.63,5,1,4,0.6996,-0.0181,8,0.818,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2024,982.71,9.19,13,1,1,0.7045,-0.0058,6,0.961,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2025,620.82,-31.02,21,5,1,0.6343,-0.0253,9,0.894,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2026,1094.85,21.65,9,10,3,0.6826,-0.0096,5,0.96,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2008,348.35,-17.06,16,8,3,0.6486,0.0124,6,0.835,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2009,460.82,9.72,14,5,3,0.6389,0.0125,10,0.994,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2010,416.77,-0.77,11,9,2,0.6455,0.0162,9,0.796,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2011,509.21,21.24,6,3,0,0.6775,0.0167,7,0.865,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2012,326.84,-22.18,17,0,0,0.6335,0.0063,9,0.808,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2013,420.42,0.1,7,5,2,0.6814,0.0217,7,0.948,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2014,416.77,-0.77,10,6,0,0.6376,-0.036,9,0.869,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2015,390.14,-7.11,3,9,1,0.6434,0.0138,8,0.979,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2016,391.15,-6.87,9,2,4,0.6378,0.0005,9,0.873,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2017,279.34,-33.49,14,4,3,0.6404,0.009,7,0.991,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2018,322.1,-23.31,15,10,2,0.6425,-0.0245,5,0.79,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2019,421.6,0.38,10,6,1,0.7138,-0.0206,5,0.828,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2020,497.11,18.36,7,11,1,0.6579,-0.0071,10,0.946,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2021,496.65,18.25,12,9,1,0.5986,-0.002,8,0.951,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2022,429.66,2.3,15,2,0,0.7301,0.0483,8,0.886,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2023,440.96,4.99,7,0,2,0.6451,0.0459,10,0.901,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2024,427.56,1.8,8,8,1,0.666,0.0536,6,0.922,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2025,377.71,-10.07,7,8,0,0.6869,-0.0059,10,0.991,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2026,458.89,9.26,11,7,0,0.6599,0.0109,9,0.81,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2008,800.35,23.13,17,4,2,0.7218,-0.0281,9,0.87,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2009,677.37,4.21,4,2,3,0.6939,-0.0214,8,0.93,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2010,688.54,5.93,11,4,3,0.6421,-0.0192,8,0.931,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2011,766.61,17.94,9,5,0,0.7043,-0.0341,10,0.784,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2012,567.06,-12.76,11,1,2,0.6723,0.0122,7,0.824,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2013,674.25,3.73,8,5,2,0.6759,-0.0236,9,0.896,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2014,566.87,-12.79,17,13,3,0.5938,-0.0122,7,0.815,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2015,692.9,6.6,6,9,1,0.6908,-0.0113,5,0.964,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2016,733.59,12.86,11,7,3,0.7178,0.0014,10,0.819,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2017,625.69,-3.74,6,6,3,0.6089,-0.0104,7,0.795,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2018,483.01,-25.69,15,9,1,0.6202,0.022,6,0.865,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2019,586.56,-9.76,17,1,1,0.6769,-0.0249,10,0.913,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2020,783.45,20.53,11,6,4,0.7516,0.0021,7,0.781,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2021,837.98,28.92,9,7,3,0.6714,-0.0244,5,0.946,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2022,571.54,-12.07,10,3,3,0.6601,0.014,8,0.968,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2023,647.21,-0.43,11,6,0,0.7059,-0.0217,6,0.916,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2024,702.39,8.06,10,6,0,0.7089,0.0092,7,0.906,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2025,379.73,-41.58,24,4,5,0.6659,-0.0043,5,0.791,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2026,649.22,-0.12,15,7,0,0.6373,0.0032,6,0.997,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2008,1050.75,16.75,4,2,0,0.6743,-0.0025,6,0.891,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2009,1033.11,14.79,11,0,1,0.6697,-0.0045,5,0.813,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2010,787.95,-12.45,15,12,0,0.6644,-0.0186,8,0.984,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2011,935.19,3.91,16,3,0,0.6263,0.0272,10,0.856,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2012,899.46,-0.06,17,0,1,0.7051,-0.0177,5,0.82,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2013,888.21,-1.31,7,2,5,0.7025,0.0132,5,0.975,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2014,981.72,9.08,5,6,4,0.7084,0.01,5,0.931,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2015,746.64,-17.04,11,15,1,0.6101,0.0132,6,0.88,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2016,695.34,-22.74,14,6,2,0.667,0.0453,6,0.799,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2017,869.22,-3.42,13,4,6,0.6674,0.0082,5,0.919,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2018,381.6,-57.6,28,5,3,0.6165,-0.0024,5,0.996,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2019,810.72,-9.92,12,2,0,0.6858,0.0009,9,0.992,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2020,1241.19,37.91,12,7,5,0.7374,0.0197,8,0.963,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2021,945.72,5.08,10,6,0,0.7859,-0.001,9,0.868,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2022,952.38,5.82,2,4,1,0.7169,0.0198,9,0.968,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2023,1008.27,12.03,14,1,0,0.7013,-0.0006,5,0.84,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2024,793.62,-11.82,12,6,0,0.6773,0.0266,7,0.886,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2025,710.64,-21.04,10,10,2,0.6047,-0.0183,5,0.901,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2026,1048.5,16.5,9,11,2,0.6594,-0.0135,6,0.874,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2008,259.64,-38.18,19,7,3,0.6231,0.0179,5,0.925,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2009,395.3,-5.88,15,5,0,0.609,-0.0145,9,0.809,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2010,383.59,-8.67,6,5,2,0.6381,0.029,7,0.992,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2011,543.31,29.36,13,6,4,0.7501,-0.0227,10,0.821,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2012,453.64,8.01,8,8,2,0.6882,0.0086,5,0.951,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2013,513.62,22.29,15,7,4,0.7514,-0.021,9,0.835,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2014,506.18,20.52,6,8,1,0.6778,-0.0171,6,0.978,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2015,370.19,-11.86,13,9,1,0.5952,0.0078,9,0.998,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2016,444.74,5.89,4,0,0,0.6849,-0.0046,8,0.997,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2017,422.81,0.67,8,7,3,0.6382,-0.013,8,0.803,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2018,279.93,-33.35,23,3,4,0.6595,-0.0039,7,0.979,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2019,449.11,6.93,5,1,4,0.7189,0.0141,5,0.817,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2020,677.71,61.36,14,11,7,0.7406,-0.0022,10,0.955,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2021,507.65,20.87,9,4,4,0.7353,-0.0275,8,0.917,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2022,418.99,-0.24,9,8,4,0.6764,-0.0009,6,0.943,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2023,402.19,-4.24,14,3,3,0.6481,-0.013,8,0.8,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2024,423.11,0.74,8,3,0,0.6654,0.0131,6,0.976,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2025,202.19,-51.86,30,11,4,0.6068,-0.0559,7,0.964,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2026,379.64,-9.61,17,6,5,0.6847,0.0033,8,0.828,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2008,724.17,11.41,7,5,1,0.7011,0.0192,8,0.991,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2009,555.68,-14.51,12,7,2,0.6476,0.0373,7,0.849,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2010,543.01,-16.46,15,6,3,0.6611,0.0066,6,0.853,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2011,589.94,-9.24,9,3,2,0.7061,0.0081,8,0.889,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2012,774.41,19.14,6,5,4,0.7381,-0.0001,10,0.899,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2013,781.04,20.16,9,3,0,0.7322,-0.0047,9,0.79,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2014,667.81,2.74,7,0,5,0.7015,0.0134,9,0.976,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2015,596.63,-8.21,5,9,6,0.6314,-0.0146,6,0.862,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2016,581.56,-10.53,8,7,3,0.7161,-0.0019,7,0.952,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2017,684.78,5.35,8,7,5,0.6934,0.0274,7,0.965,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2018,668.91,2.91,9,0,2,0.6682,0.0106,10,0.788,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2019,598.45,-7.93,15,2,0,0.6478,-0.0037,6,0.832,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2020,853.38,31.29,9,10,0,0.6274,-0.0028,6,0.959,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2021,499.59,-23.14,16,5,2,0.7342,-0.0232,5,0.831,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2022,663.07,2.01,7,5,6,0.6763,-0.0084,7,0.883,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2023,511.55,-21.3,15,6,1,0.6658,-0.0084,6,0.94,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2024,712.86,9.67,14,4,2,0.6027,0.0307,9,0.965,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2025,326.11,-49.83,23,6,0,0.6425,0.0283,5,0.834,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2026,550.36,-15.33,16,7,2,0.6717,-0.0132,8,0.918,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2008,1041.48,15.72,13,3,4,0.6902,-0.0027,9,0.929,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2009,738.99,-17.89,17,3,6,0.7103,0.0087,8,0.938,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2010,608.4,-32.4,19,11,1,0.587,-0.0141,9,0.931,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2011,1275.21,41.69,14,5,6,0.7098,0.0105,8,0.836,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2012,877.41,-2.51,7,7,2,0.6563,0.0443,9,0.906,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2013,940.68,4.52,6,1,2,0.6888,-0.0009,5,0.966,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2014,895.86,-0.46,12,7,3,0.6977,-0.0145,9,0.893,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2015,953.73,5.97,12,12,0,0.5945,0.01,8,0.85,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2016,959.94,6.66,11,6,3,0.731,0.0086,9,0.985,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2017,890.55,-1.05,12,8,2,0.6277,0.0346,8,0.975,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2018,708.48,-21.28,14,9,0,0.64,0.0022,9,0.816,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2019,744.75,-17.25,16,4,0,0.729,-0.0067,10,0.988,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2020,1200.6,33.4,8,9,5,0.6921,-0.003,8,0.992,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2021,976.5,8.5,8,7,4,0.7265,0.0297,8,0.872,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2022,666.63,-25.93,9,10,4,0.6265,-0.0236,10,0.868,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2023,862.65,-4.15,14,0,3,0.6876,-0.0091,9,0.883,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2024,954.63,6.07,8,3,1,0.6518,-0.0037,6,0.846,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2025,707.85,-21.35,19,11,3,0.6329,0.0118,5,0.799,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2026,578.16,-35.76,24,7,4,0.6265,0.0064,6,0.837,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2008,317.65,-24.37,12,10,1,0.6056,-0.0216,8,0.926,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2009,407.32,-3.02,18,5,3,0.6859,-0.0207,5,0.88,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2010,380.56,-9.39,18,23,2,0.5647,0.0304,8,0.84,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2011,494.26,17.68,4,6,1,0.7279,0.0139,6,0.993,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2012,271.28,-35.41,16,4,2,0.6661,0.0163,7,0.905,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2013,378.59,-9.86,15,3,3,0.6958,-0.0151,6,0.881,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2014,398.24,-5.18,7,0,2,0.6889,-0.0409,8,0.891,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2015,375.1,-10.69,17,8,2,0.5838,0.0087,8,0.903,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2016,560.28,33.4,0,6,2,0.7439,-0.0029,6,0.949,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2017,322.69,-23.17,22,7,2,0.6804,-0.0151,6,0.958,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2018,254.35,-39.44,19,4,1,0.6321,-0.0173,9,0.924,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2019,373.63,-11.04,11,5,2,0.6118,0.0338,9,0.955,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2020,532.01,26.67,4,13,3,0.6398,0.031,5,0.809,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2021,428.99,2.14,12,2,0,0.7182,0.0148,9,0.939,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2022,343.64,-18.18,7,6,3,0.5975,0.0028,7,0.889,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2023,371.53,-11.54,8,4,3,0.6799,0.0299,8,0.861,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2024,454.82,8.29,1,2,2,0.6705,-0.0109,7,0.874,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2025,293.83,-30.04,21,3,3,0.6748,-0.0197,5,0.999,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2026,473.72,12.79,6,7,4,0.6387,0.0036,7,0.984,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2008,765.63,17.79,8,4,5,0.7497,0.0226,8,0.833,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2009,634.47,-2.39,6,6,3,0.6907,-0.0179,10,0.866,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2010,652.02,0.31,2,10,0,0.6309,-0.0096,8,0.78,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2011,631.87,-2.79,2,5,0,0.6639,-0.0256,7,0.817,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2012,541.06,-16.76,15,6,0,0.6332,-0.0222,8,0.857,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2013,730.27,12.35,10,7,4,0.6507,0.0015,9,0.958,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2014,590.46,-9.16,12,4,0,0.6836,-0.0164,9,0.902,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2015,650.06,0.01,9,12,1,0.636,-0.0017,8,0.786,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2016,475.02,-26.92,22,1,2,0.648,-0.0238,5,0.827,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2017,759.98,16.92,5,4,3,0.7148,-0.0007,10,0.89,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2018,496.41,-23.63,13,10,0,0.6477,-0.0117,9,0.869,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2019,665.47,2.38,7,5,0,0.6707,-0.018,6,0.915,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2020,895.96,37.84,9,7,3,0.706,0.0063,6,0.959,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2021,654.81,0.74,15,3,4,0.6768,0.0095,10,0.791,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2022,793.13,22.02,8,5,2,0.7052,-0.0178,6,0.816,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2023,742.37,14.21,7,3,3,0.7244,-0.0101,8,0.817,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2024,751.53,15.62,15,9,1,0.6467,-0.0,9,0.846,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2025,499.85,-23.1,19,9,0,0.5695,-0.0053,8,0.866,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2026,622.44,-4.24,15,8,6,0.6485,0.0176,6,0.929,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2008,1105.74,22.86,9,7,3,0.7407,0.0011,6,0.812,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2009,791.82,-12.02,12,4,3,0.6686,-0.015,9,0.887,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2010,701.55,-22.05,20,11,2,0.6209,0.0062,10,0.912,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2011,965.79,7.31,8,6,0,0.6656,0.0083,7,0.902,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2012,989.37,9.93,8,0,0,0.6722,0.0457,10,0.915,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2013,746.73,-17.03,16,5,5,0.6311,0.0235,7,0.935,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2014,1008.54,12.06,7,2,3,0.691,0.0038,5,0.949,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2015,914.31,1.59,11,5,3,0.6728,-0.0015,8,0.782,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2016,871.92,-3.12,5,2,0,0.6779,0.0195,5,0.884,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2017,921.33,2.37,8,4,3,0.7273,0.0133,10,0.943,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2018,709.92,-21.12,17,1,0,0.6242,-0.0166,7,0.95,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2019,811.62,-9.82,16,4,0,0.7278,-0.0229,5,0.949,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2020,1259.82,39.98,8,14,7,0.6272,0.0147,6,0.801,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2021,878.4,-2.4,10,0,3,0.6644,0.0084,6,0.954,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2022,934.38,3.82,4,6,3,0.676,-0.0011,10,0.983,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2023,595.08,-33.88,18,8,1,0.6018,-0.002,7,0.811,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2024,783.0,-13.0,15,5,1,0.6189,0.0034,10,0.837,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2025,839.97,-6.67,9,10,0,0.6715,-0.023,5,0.852,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2026,756.45,-15.95,15,7,6,0.6994,0.0155,10,0.787,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2008,332.01,-20.95,12,6,0,0.6808,0.0194,8,0.786,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2009,373.04,-11.18,7,10,1,0.6297,-0.0054,7,0.937,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2010,378.04,-9.99,10,7,2,0.7027,0.0019,9,0.97,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2011,463.64,10.39,14,5,2,0.7092,-0.0084,5,0.882,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2012,491.36,16.99,0,3,4,0.6973,0.0056,8,0.888,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2013,530.17,26.23,8,5,4,0.6536,-0.0001,10,0.973,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2014,411.94,-1.92,18,6,3,0.6561,-0.0046,7,0.87,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2015,415.3,-1.12,7,10,0,0.6402,-0.0303,8,0.955,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2016,415.0,-1.19,3,5,0,0.664,0.0241,7,0.838,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2017,480.14,14.32,12,2,2,0.6999,0.0008,9,0.954,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2018,259.6,-38.19,25,4,7,0.6882,-0.0014,7,0.838,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2019,462.71,10.17,7,5,3,0.7371,0.0031,5,0.864,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2020,526.6,25.38,10,7,0,0.6442,0.0142,10,0.82,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2021,299.08,-28.79,24,0,1,0.6348,0.0216,7,0.981,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2022,337.68,-19.6,13,9,0,0.6262,0.0269,8,0.949,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2023,399.21,-4.95,4,5,0,0.6939,-0.0116,7,0.825,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2024,494.21,17.67,12,1,2,0.6789,0.0015,7,0.798,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2025,327.47,-22.03,17,3,0,0.6384,-0.005,7,0.81,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2026,492.95,17.37,8,9,5,0.6016,-0.0219,9,0.848,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2008,578.44,-11.01,11,3,0,0.7001,-0.001,5,0.955,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2009,507.26,-21.96,14,7,0,0.68,0.0065,6,0.967,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2010,738.6,13.63,10,8,0,0.6696,-0.017,5,0.797,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2011,709.6,9.17,8,2,0,0.7543,0.028,7,0.969,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2012,663.19,2.03,4,3,2,0.7304,0.0148,6,0.957,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2013,801.77,23.35,11,7,5,0.7157,0.0108,7,0.914,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2014,586.04,-9.84,13,3,2,0.7203,-0.0115,9,0.95,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2015,616.72,-5.12,11,4,0,0.622,-0.0308,10,0.829,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2016,674.76,3.81,4,0,0,0.6784,0.0184,8,0.836,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2017,687.12,5.71,8,6,1,0.774,-0.0044,10,0.951,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2018,566.87,-12.79,12,4,0,0.7427,-0.0222,10,0.835,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2019,619.58,-4.68,16,5,0,0.6198,-0.0218,7,0.906,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2020,738.79,13.66,7,5,1,0.7442,0.0087,5,0.796,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2021,621.27,-4.42,5,4,2,0.6074,-0.0156,5,0.856,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2022,471.38,-27.48,19,6,5,0.6039,-0.0172,7,0.902,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2023,805.22,23.88,12,6,0,0.7048,0.0177,9,0.848,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2024,445.83,-31.41,18,5,4,0.7088,-0.0013,10,0.896,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2025,476.84,-26.64,15,9,5,0.6741,-0.0066,10,0.924,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2026,712.14,9.56,6,12,1,0.6625,-0.0022,7,0.87,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2008,913.77,1.53,6,0,0,0.6253,-0.0145,5,0.923,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2009,860.31,-4.41,7,7,4,0.7064,-0.012,6,0.964,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2010,838.35,-6.85,11,12,3,0.6218,-0.0034,5,0.86,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2011,864.9,-3.9,9,7,3,0.6947,0.0001,8,0.948,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2012,967.86,7.54,19,7,1,0.6838,-0.0009,9,0.921,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2013,802.44,-10.84,8,8,5,0.6689,0.002,7,0.909,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2014,866.97,-3.67,14,5,0,0.6959,0.0108,6,0.983,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2015,989.64,9.96,10,9,0,0.6611,-0.0336,7,0.817,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2016,1102.32,22.48,2,2,1,0.6841,0.0209,7,0.826,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2017,773.73,-14.03,9,4,2,0.6987,-0.0048,7,0.893,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2018,669.69,-25.59,14,9,1,0.6384,0.0114,7,0.855,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2019,777.78,-13.58,16,6,0,0.6365,-0.0126,5,0.872,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2020,1163.34,29.26,11,10,3,0.7068,0.0128,9,0.947,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2021,845.28,-6.08,10,1,1,0.6673,-0.0133,7,0.912,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2022,650.88,-27.68,10,9,0,0.6004,-0.0361,10,0.906,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2023,957.15,6.35,2,5,3,0.6265,0.0014,10,0.798,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2024,911.25,1.25,9,4,2,0.6591,0.0164,8,0.913,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2025,878.13,-2.43,8,10,0,0.6544,-0.0087,9,0.802,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2026,957.33,6.37,16,3,1,0.6629,-0.003,8,0.895,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2008,376.57,-10.34,9,5,0,0.6984,-0.0043,5,0.794,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2009,436.13,3.84,7,5,0,0.6916,-0.0158,9,0.847,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2010,363.85,-13.37,11,4,1,0.668,0.01,6,0.973,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2011,403.79,-3.86,13,5,1,0.6372,0.0101,9,0.786,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2012,339.57,-19.15,13,7,2,0.6688,-0.0241,10,0.871,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2013,368.63,-12.23,10,3,0,0.6407,0.0243,10,0.8,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2014,332.3,-20.88,18,5,1,0.6505,0.0114,6,0.929,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2015,473.51,12.74,5,9,3,0.6497,-0.0205,8,0.79,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2016,512.19,21.95,13,3,0,0.6971,-0.0199,8,0.786,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2017,498.04,18.58,5,8,1,0.6527,0.0334,6,0.924,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2018,340.07,-19.03,12,2,2,0.7037,-0.0232,5,0.996,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2019,363.01,-13.57,15,6,4,0.7306,0.0269,5,0.878,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2020,629.58,49.9,11,7,5,0.7545,-0.0233,9,0.915,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2021,424.54,1.08,7,1,1,0.664,-0.0015,9,0.853,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2022,385.14,-8.3,12,1,2,0.6317,0.0047,6,0.882,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2023,417.06,-0.7,9,8,1,0.6595,-0.0061,10,0.977,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2024,466.49,11.07,11,7,3,0.7183,0.0122,7,0.976,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2025,218.9,-47.88,25,9,4,0.5652,0.0262,8,0.96,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2026,411.31,-2.07,15,7,3,0.65,-0.0206,10,0.81,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2008,745.94,14.76,13,5,2,0.6724,-0.0012,6,0.948,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2009,593.25,-8.73,12,3,0,0.6773,-0.0136,7,0.886,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2010,693.1,6.63,13,9,1,0.5952,-0.008,7,0.931,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2011,747.04,14.93,10,7,2,0.6827,-0.0127,8,0.995,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2012,753.87,15.98,11,10,2,0.6362,0.0054,8,0.981,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2013,602.68,-7.28,0,2,4,0.6837,0.0211,8,0.975,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2014,550.62,-15.29,16,4,2,0.6722,-0.0176,8,0.807,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2015,774.93,19.22,10,7,3,0.7127,0.0127,10,0.832,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2016,538.46,-17.16,19,5,0,0.6315,0.0142,5,0.88,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2017,573.82,-11.72,13,10,0,0.6002,-0.0028,5,0.848,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2018,427.76,-34.19,20,7,5,0.5841,0.0112,10,0.791,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2019,528.77,-18.65,15,7,1,0.6466,0.0365,5,0.805,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2020,908.57,39.78,1,4,5,0.6597,0.0095,7,0.963,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2021,729.5,12.23,8,2,0,0.6867,0.0323,5,0.837,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2022,804.31,23.74,4,0,2,0.7214,0.0172,6,0.836,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2023,661.18,1.72,16,3,3,0.6952,-0.0047,5,0.955,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2024,605.41,-6.86,16,6,1,0.63,0.0167,8,0.856,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2025,391.43,-39.78,22,7,1,0.6218,-0.0123,7,0.916,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2026,478.4,-26.4,19,8,0,0.6399,0.0127,6,0.888,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2008,926.91,2.99,14,3,3,0.6883,-0.0073,7,0.825,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2009,755.37,-16.07,16,9,1,0.6478,-0.0177,10,0.876,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2010,1060.65,17.85,17,10,2,0.6531,0.0057,6,0.913,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2011,949.86,5.54,9,0,1,0.7084,0.0115,6,0.822,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2012,1082.16,20.24,10,8,2,0.693,0.0025,10,0.88,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2013,816.66,-9.26,7,5,1,0.6768,0.0233,7,0.964,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2014,898.38,-0.18,8,2,0,0.7142,0.0067,8,0.967,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2015,695.25,-22.75,5,5,0,0.647,-0.0202,7,0.974,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2016,995.49,10.61,10,5,2,0.6129,0.0072,9,0.879,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2017,940.77,4.53,7,6,2,0.6695,0.0026,9,0.965,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2018,594.45,-33.95,26,1,2,0.6544,-0.004,8,0.841,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2019,750.87,-16.57,19,9,3,0.6984,0.0006,6,0.822,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2020,1174.05,30.45,8,10,1,0.6907,0.014,9,0.818,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2021,813.42,-9.62,8,10,3,0.6048,-0.0314,6,0.958,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2022,1037.25,15.25,7,10,0,0.6281,-0.0167,9,0.987,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2023,953.1,5.9,14,5,0,0.633,-0.0083,6,0.791,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2024,1053.09,17.01,7,6,2,0.6332,0.0186,9,0.82,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2025,428.76,-52.36,33,10,1,0.5764,-0.0098,10,0.885,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2026,782.64,-13.04,11,5,1,0.6434,-0.0081,9,0.808,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2008,516.77,23.04,14,6,2,0.7288,-0.0133,5,0.96,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2009,359.81,-14.33,16,5,3,0.6482,0.0191,6,0.843,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2010,438.69,4.45,7,8,3,0.6452,0.0015,6,0.793,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2011,358.76,-14.58,18,10,0,0.6233,-0.0014,9,0.815,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2012,365.57,-12.96,10,5,0,0.7003,0.0001,10,0.801,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2013,279.09,-33.55,21,2,3,0.6237,0.0034,10,0.859,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2014,381.82,-9.09,10,9,3,0.677,0.003,10,0.852,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2015,484.93,15.46,12,14,0,0.5882,0.0241,6,0.923,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2016,315.59,-24.86,17,1,2,0.614,-0.0085,9,0.834,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2017,486.74,15.89,11,0,0,0.7048,0.0313,9,0.851,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2018,240.03,-42.85,31,7,3,0.642,-0.0115,6,0.895,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2019,511.31,21.74,6,0,4,0.7324,-0.0145,9,0.929,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2020,553.77,31.85,12,7,1,0.7208,-0.01,10,0.797,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2021,446.42,6.29,6,4,4,0.7065,0.0041,5,0.956,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2022,310.59,-26.05,14,2,4,0.6436,0.0202,9,0.792,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2023,454.65,8.25,5,1,0,0.7522,0.0272,7,0.836,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2024,547.39,30.33,13,1,1,0.7306,0.014,8,0.79,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2025,267.25,-36.37,9,4,0,0.6176,-0.0427,7,0.964,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2026,539.24,28.39,6,7,1,0.6511,-0.0284,5,0.879,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2008,798.39,22.83,12,6,0,0.7128,-0.0186,9,0.915,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2009,710.06,9.24,15,5,3,0.7352,0.0101,9,0.843,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2010,571.15,-12.13,9,8,0,0.6243,-0.0116,7,0.781,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2011,652.6,0.4,8,4,3,0.6708,0.0177,8,0.985,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2012,432.19,-33.51,19,7,3,0.6315,0.0132,5,0.851,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2013,586.62,-9.75,9,9,2,0.6832,0.009,6,0.829,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2014,674.76,3.81,12,4,8,0.6776,-0.0139,9,0.789,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2015,516.42,-20.55,25,14,3,0.5711,0.0556,9,0.821,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2016,497.05,-23.53,9,9,2,0.5981,0.0036,6,0.839,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2017,731.57,12.55,9,1,1,0.6694,0.0034,5,0.899,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2018,485.09,-25.37,17,4,3,0.6126,0.0013,5,0.88,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2019,559.91,-13.86,8,1,1,0.6447,-0.0266,7,0.927,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2020,855.47,31.61,10,11,4,0.7796,-0.035,9,0.987,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2021,565.69,-12.97,9,0,1,0.662,-0.0008,9,0.953,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2022,548.66,-15.59,23,1,2,0.6656,0.0106,8,0.903,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2023,647.92,-0.32,9,6,0,0.678,0.0104,7,0.81,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2024,650.39,0.06,12,9,2,0.6197,0.0071,7,0.827,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2025,378.04,-41.84,26,10,6,0.6655,-0.0386,5,0.784,90,90,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2026,840.06,29.24,12,7,0,0.7197,-0.02,7,0.986,90,90,synthetic_demo,SYNTHETIC_FIXTURE

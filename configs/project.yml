@@ -1,0 +1,30 @@
+project:
+  name: india-crop-loss-and-harvest-risk
+  data_status: synthetic_demo
+  decision_boundary: analyst_screening_only
+
+scope:
+  crops: [rice, wheat, maize]
+  candidate_states: [Bihar, Odisha, Uttar Pradesh]
+  forecast_unit: district_crop_season_year
+  issue_day: 90
+  target_unit: tonnes_per_hectare
+
+labels:
+  expected_yield_method: trailing_median
+  expected_yield_lookback_seasons: 5
+  minimum_prior_seasons: 3
+  elevated_risk_threshold_anomaly_pct: -15
+  sensitivity_thresholds_pct: [-10, -15, -20]
+
+release_gates:
+  minimum_coverage_score: 0.70
+  withhold_out_of_distribution: true
+  probability_default_status: uncalibrated
+  human_review_required: true
+
+reproducibility:
+  demo_seed: 2417
+  timezone: UTC
+  raw_data_in_git: false
+  trained_weights_in_git: false

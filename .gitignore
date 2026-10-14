@@ -1,0 +1,44 @@
+# Licensed source snapshots and raw media are not redistributed by default.
+data/raw/**
+!data/raw/
+!data/raw/README.md
+!data/raw/**/*.example.*
+!data/raw/**/*.template.*
+
+# Generated row-level features and model artifacts may contain sensitive detail.
+data/processed/**
+!data/processed/
+models/**
+!models/
+!models/.gitkeep
+
+# Local environments and credentials
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Editor and build outputs
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+dist/
+build/
+*.log
+
+# Local image data / exports
+*.pt
+*.pth
+*.onnx
+*.ckpt
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+*.parquet

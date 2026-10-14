@@ -1,0 +1,15 @@
+{
+  "api_url": "https://ckandev.indiadataportal.com/api/3/action/datastore_search",
+  "fetched_at_utc": "2026-10-14T09:59:24.202494+00:00",
+  "license_name": "Open Data Commons Attribution License",
+  "license_url": "https://opendatacommons.org/licenses/by/1-0/index.html",
+  "resource_id": "6f70d961-3a4f-4caa-b08f-f72f708791e1",
+  "row_count": 156189,
+  "snapshot_file": "upag_crop_production.csv.gz",
+  "snapshot_sha256": "3500ea719355e2cb0dc096221507c48136c724cd954b2951d7ce006152983dc3",
+  "source_name": "Ministry of Agriculture & Farmers Welfare \u2014 APY (UPAG)",
+  "source_updated_at": "2026-10-12T06:37:12.425876",
+  "source_url": "https://indiadataportal.com/p/area-production-yield-apy",
+  "year_end": 2024,
+  "year_start": 2013
+}

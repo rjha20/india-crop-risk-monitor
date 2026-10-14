@@ -1,0 +1,541 @@
+district_id,state,district,crop,season,season_year,area_ha,production_t,yield_t_ha,data_status,source_id
+BR-PAT,Bihar,Patna,rice,kharif,2008,883.9,2496.134,2.824,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2009,966.8,2854.96,2.953,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2010,948.2,2740.298,2.89,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2011,863.7,2477.955,2.869,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2012,855.2,2425.347,2.836,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2013,844.6,2216.23,2.624,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2014,879.9,2312.377,2.628,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2015,892.9,2823.35,3.162,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2016,922.8,1931.42,2.093,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2017,978.7,2778.529,2.839,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2018,969.9,2119.231,2.185,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2019,829.0,2364.308,2.852,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2020,817.5,2236.68,2.736,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2021,930.6,2960.239,3.181,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2022,820.7,2229.842,2.717,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2023,854.9,2816.896,3.295,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2024,876.3,2775.242,3.167,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,rice,kharif,2025,948.3,2826.882,2.981,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2008,959.5,2529.242,2.636,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2009,1013.1,2679.649,2.645,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2010,957.1,2494.203,2.606,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2011,941.2,2502.651,2.659,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2012,944.9,2726.036,2.885,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2013,917.8,2480.813,2.703,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2014,923.4,2547.661,2.759,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2015,897.7,2416.608,2.692,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2016,991.9,2583.899,2.605,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2017,939.3,2658.219,2.83,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2018,994.0,2557.562,2.573,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2019,970.1,2463.084,2.539,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2020,872.9,2476.417,2.837,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2021,1002.5,3014.517,3.007,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2022,1025.1,2797.498,2.729,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2023,986.6,2845.354,2.884,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2024,1057.4,2805.282,2.653,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,wheat,rabi,2025,1036.7,2969.109,2.864,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2008,1086.0,2822.514,2.599,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2009,1133.5,2933.498,2.588,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2010,967.5,2566.778,2.653,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2011,1064.2,2534.924,2.382,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2012,968.6,2239.403,2.312,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2013,969.1,2133.958,2.202,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2014,977.8,2253.829,2.305,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2015,1116.7,2643.229,2.367,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2016,993.6,2305.152,2.32,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2017,1061.8,2483.55,2.339,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2018,1089.6,2473.392,2.27,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2019,993.6,2407.493,2.423,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2020,953.6,2426.912,2.545,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2021,1128.6,2803.442,2.484,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2022,1019.4,2550.539,2.502,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2023,938.2,2414.927,2.574,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2024,1009.3,2606.013,2.582,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PAT,Bihar,Patna,maize,kharif,2025,956.8,2202.554,2.302,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2008,988.8,2803.248,2.835,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2009,1062.0,3196.62,3.01,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2010,1090.4,2602.785,2.387,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2011,994.6,2837.594,2.853,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2012,926.8,2683.086,2.895,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2013,1106.8,3633.624,3.283,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2014,1023.7,2904.237,2.837,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2015,1092.5,3361.622,3.077,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2016,1093.3,2853.513,2.61,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2017,1023.8,3201.423,3.127,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2018,936.5,2418.043,2.582,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2019,919.7,2547.569,2.77,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2020,1062.0,3189.186,3.003,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2021,958.8,2839.007,2.961,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2022,1013.4,3047.294,3.007,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2023,1007.9,3238.383,3.213,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2024,1088.8,3354.593,3.081,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,rice,kharif,2025,957.4,2900.922,3.03,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2008,1166.3,3062.704,2.626,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2009,1165.7,3111.253,2.669,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2010,1080.5,3030.803,2.805,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2011,1066.4,2870.749,2.692,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2012,1103.5,2811.718,2.548,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2013,1050.4,3044.059,2.898,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2014,1063.2,2672.885,2.514,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2015,1007.4,3232.747,3.209,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2016,1161.0,3257.766,2.806,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2017,1116.3,3394.668,3.041,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2018,1058.3,2626.701,2.482,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2019,985.5,2893.428,2.936,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2020,998.8,2710.743,2.714,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2021,1110.6,3016.39,2.716,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2022,1029.2,2420.678,2.352,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2023,996.0,2556.732,2.567,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2024,1033.5,3153.209,3.051,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,wheat,rabi,2025,1065.0,2567.715,2.411,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2008,1062.4,2726.118,2.566,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2009,1225.0,2703.575,2.207,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2010,1214.1,2825.211,2.327,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2011,1110.5,2400.901,2.162,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2012,1078.1,2738.374,2.54,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2013,1059.5,2674.178,2.524,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2014,1178.6,2709.601,2.299,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2015,1235.5,2999.794,2.428,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2016,1180.6,2966.848,2.513,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2017,1191.4,3246.565,2.725,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2018,1050.0,2178.75,2.075,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2019,1051.9,2559.273,2.433,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2020,1065.8,2391.655,2.244,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2021,1077.4,2912.212,2.703,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2022,1232.7,3382.529,2.744,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2023,1148.6,3181.622,2.77,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2024,1159.2,2835.403,2.446,synthetic_demo,SYNTHETIC_FIXTURE
+BR-GAY,Bihar,Gaya,maize,kharif,2025,1096.7,2603.566,2.374,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2008,1153.2,3641.806,3.158,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2009,1080.4,3275.773,3.032,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2010,1059.3,3271.118,3.088,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2011,1171.6,3421.072,2.92,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2012,1184.2,3708.914,3.132,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2013,1072.8,3139.013,2.926,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2014,1195.2,3846.154,3.218,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2015,1037.3,3061.072,2.951,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2016,1139.7,3428.218,3.008,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2017,1155.1,3831.467,3.317,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2018,1118.1,3208.947,2.87,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2019,1083.4,3327.121,3.071,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2020,1078.9,3208.649,2.974,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2021,1107.7,3541.317,3.197,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2022,1103.7,3283.508,2.975,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2023,1145.3,3670.686,3.205,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2024,1084.7,3461.278,3.191,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,rice,kharif,2025,1111.1,2837.749,2.554,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2008,1208.9,3196.332,2.644,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2009,1096.4,2749.771,2.508,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2010,1107.7,3016.267,2.723,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2011,1231.4,3285.375,2.668,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2012,1286.9,3971.373,3.086,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2013,1168.0,3131.408,2.681,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2014,1182.8,3374.528,2.853,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2015,1129.2,2766.54,2.45,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2016,1123.6,3267.429,2.908,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2017,1246.9,3477.604,2.789,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2018,1114.3,3195.812,2.868,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2019,1201.3,3922.244,3.265,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2020,1265.9,3852.134,3.043,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2021,1217.8,3441.503,2.826,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2022,1209.2,3503.052,2.897,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2023,1264.4,4085.276,3.231,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2024,1152.5,3475.94,3.016,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,wheat,rabi,2025,1105.0,2802.28,2.536,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2008,1240.3,3106.951,2.505,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2009,1318.3,3191.604,2.421,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2010,1240.3,2938.271,2.369,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2011,1187.1,2981.995,2.512,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2012,1171.4,2820.731,2.408,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2013,1255.2,3303.686,2.632,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2014,1277.0,3140.143,2.459,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2015,1334.8,3123.432,2.34,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2016,1302.1,3237.021,2.486,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2017,1270.9,2968.822,2.336,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2018,1348.9,3368.203,2.497,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2019,1165.5,2974.356,2.552,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2020,1173.7,3188.943,2.717,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2021,1188.9,3195.763,2.688,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2022,1252.8,3499.07,2.793,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2023,1198.0,2953.07,2.465,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2024,1227.2,3336.757,2.719,synthetic_demo,SYNTHETIC_FIXTURE
+BR-PUR,Bihar,Purnia,maize,kharif,2025,1282.0,2257.602,1.761,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2008,1191.1,3324.36,2.791,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2009,1223.5,3652.148,2.985,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2010,1143.5,2990.253,2.615,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2011,1195.5,3515.965,2.941,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2012,1237.1,3806.557,3.077,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2013,1255.3,4251.701,3.387,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2014,1266.5,3587.995,2.833,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2015,1278.8,4010.317,3.136,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2016,1279.6,3943.727,3.082,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2017,1316.3,3993.654,3.034,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2018,1152.1,3126.799,2.714,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2019,1156.6,3731.192,3.226,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2020,1208.5,4023.097,3.329,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2021,1257.9,4110.817,3.268,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2022,1200.9,4129.895,3.439,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2023,1296.4,3942.352,3.041,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2024,1156.4,3974.547,3.437,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,rice,kharif,2025,1288.3,3761.836,2.92,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2008,1316.0,3686.116,2.801,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2009,1374.2,3729.579,2.714,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2010,1208.5,3475.646,2.876,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2011,1368.2,3958.203,2.893,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2012,1247.0,3037.692,2.436,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2013,1295.7,3848.229,2.97,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2014,1322.1,4361.608,3.299,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2015,1368.8,3615.001,2.641,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2016,1385.9,4067.617,2.935,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2017,1348.8,3562.181,2.641,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2018,1257.6,3127.651,2.487,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2019,1297.4,3929.825,3.029,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2020,1285.5,3662.39,2.849,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2021,1217.8,3497.522,2.872,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2022,1273.6,3814.432,2.995,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2023,1337.8,4045.507,3.024,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2024,1322.0,3824.546,2.893,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,wheat,rabi,2025,1250.9,3592.585,2.872,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2008,1458.7,4005.59,2.746,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2009,1456.7,3563.088,2.446,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2010,1433.4,3927.516,2.74,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2011,1413.4,4022.536,2.846,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2012,1303.1,3436.275,2.637,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2013,1406.7,3871.238,2.752,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2014,1351.4,2963.62,2.193,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2015,1451.2,3257.944,2.245,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2016,1457.1,3712.691,2.548,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2017,1290.7,3132.529,2.427,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2018,1354.7,3195.737,2.359,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2019,1407.0,3960.705,2.815,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2020,1363.6,3459.453,2.537,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2021,1344.2,3419.645,2.544,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2022,1442.7,3987.623,2.764,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2023,1439.3,4091.93,2.843,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2024,1320.4,3619.216,2.741,synthetic_demo,SYNTHETIC_FIXTURE
+BR-MUZ,Bihar,Muzaffarpur,maize,kharif,2025,1325.6,2970.67,2.241,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2008,1315.6,4283.594,3.256,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2009,1297.3,3838.711,2.959,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2010,1374.9,3692.981,2.686,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2011,1328.1,4171.562,3.141,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2012,1340.3,4229.987,3.156,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2013,1336.7,4651.716,3.48,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2014,1331.3,3989.906,2.997,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2015,1382.4,4561.92,3.3,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2016,1337.9,4304.024,3.217,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2017,1434.2,4483.309,3.126,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2018,1324.8,4828.896,3.645,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2019,1338.8,4422.056,3.303,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2020,1266.4,3633.302,2.869,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2021,1392.7,4622.371,3.319,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2022,1331.8,4738.544,3.558,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2023,1434.4,5155.234,3.594,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2024,1406.6,4606.615,3.275,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,rice,kharif,2025,1424.1,4072.926,2.86,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2008,1502.0,3980.3,2.65,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2009,1331.7,3947.159,2.964,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2010,1439.2,3229.565,2.244,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2011,1494.8,4339.404,2.903,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2012,1382.5,3659.477,2.647,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2013,1425.2,4153.033,2.914,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2014,1402.4,4505.911,3.213,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2015,1500.9,4205.522,2.802,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2016,1514.3,4938.132,3.261,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2017,1474.6,3749.908,2.543,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2018,1473.6,4417.853,2.998,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2019,1407.5,4012.782,2.851,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2020,1428.4,4469.464,3.129,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2021,1409.0,4269.27,3.03,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2022,1473.6,4534.267,3.077,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2023,1485.2,4620.457,3.111,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2024,1449.2,4346.151,2.999,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,wheat,rabi,2025,1332.4,4363.61,3.275,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2008,1415.2,3076.645,2.174,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2009,1503.5,3552.771,2.363,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2010,1481.3,3740.282,2.525,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2011,1437.8,3941.01,2.741,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2012,1554.7,4060.876,2.612,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2013,1420.7,4022.002,2.831,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2014,1479.5,3300.764,2.231,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2015,1518.9,4019.009,2.646,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2016,1518.2,3901.774,2.57,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2017,1406.1,3873.805,2.755,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2018,1549.6,3655.506,2.359,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2019,1525.7,4308.577,2.824,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2020,1482.8,4187.427,2.824,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2021,1550.0,4491.9,2.898,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2022,1417.8,4098.86,2.891,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2023,1453.0,4594.386,3.162,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2024,1391.2,3831.365,2.754,synthetic_demo,SYNTHETIC_FIXTURE
+OD-CUT,Odisha,Cuttack,maize,kharif,2025,1396.3,3552.187,2.544,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2008,1472.3,4701.054,3.193,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2009,1507.1,4864.919,3.228,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2010,1488.4,4110.961,2.762,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2011,1557.9,4785.869,3.072,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2012,1483.7,4836.862,3.26,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2013,1468.0,4618.328,3.146,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2014,1474.1,4714.172,3.198,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2015,1458.7,3977.875,2.727,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2016,1399.0,5275.629,3.771,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2017,1446.4,5075.418,3.509,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2018,1459.3,3384.117,2.319,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2019,1475.8,5032.478,3.41,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2020,1537.5,5216.737,3.393,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2021,1475.2,5039.283,3.416,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2022,1427.4,4761.806,3.336,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2023,1548.4,5346.625,3.453,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2024,1511.4,5549.861,3.672,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,rice,kharif,2025,1416.3,4700.7,3.319,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2008,1505.5,3787.838,2.516,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2009,1478.2,4548.421,3.077,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2010,1625.9,5215.887,3.208,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2011,1597.3,4807.873,3.01,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2012,1501.4,4619.808,3.077,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2013,1456.1,4416.351,3.033,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2014,1550.9,4857.419,3.132,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2015,1594.1,4163.789,2.612,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2016,1541.0,5000.545,3.245,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2017,1447.9,4540.614,3.136,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2018,1629.2,4563.389,2.801,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2019,1458.0,4824.522,3.309,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2020,1477.1,3970.445,2.688,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2021,1442.6,4789.432,3.32,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2022,1483.4,4660.843,3.142,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2023,1503.3,4591.078,3.054,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2024,1621.5,5117.454,3.156,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,wheat,rabi,2025,1564.0,3964.74,2.535,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2008,1544.5,3921.486,2.539,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2009,1683.2,4571.571,2.716,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2010,1588.8,4345.368,2.735,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2011,1555.5,4500.061,2.893,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2012,1671.9,4596.053,2.749,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2013,1676.3,4862.946,2.901,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2014,1551.5,4294.552,2.768,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2015,1587.0,4511.841,2.843,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2016,1584.8,4654.558,2.937,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2017,1636.9,4709.361,2.877,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2018,1684.9,5223.19,3.1,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2019,1542.5,4897.438,3.175,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2020,1609.6,4600.237,2.858,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2021,1526.7,3690.034,2.417,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2022,1521.9,4771.157,3.135,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2023,1529.1,4342.644,2.84,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2024,1609.6,5034.829,3.128,synthetic_demo,SYNTHETIC_FIXTURE
+OD-BAL,Odisha,Balasore,maize,kharif,2025,1509.4,3104.836,2.057,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2008,1488.2,5067.321,3.405,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2009,1606.9,5339.729,3.323,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2010,1652.4,4367.293,2.643,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2011,1549.6,4851.798,3.131,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2012,1541.4,4602.62,2.986,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2013,1559.4,5563.939,3.568,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2014,1491.6,5102.764,3.421,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2015,1482.2,4234.645,2.857,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2016,1600.7,5357.543,3.347,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2017,1616.7,4696.514,2.905,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2018,1645.2,5353.481,3.254,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2019,1657.5,5313.945,3.206,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2020,1489.3,5287.015,3.55,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2021,1549.9,5948.516,3.838,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2022,1585.1,5129.384,3.236,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2023,1485.8,5408.312,3.64,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2024,1618.2,5854.648,3.618,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,rice,kharif,2025,1634.6,5251.97,3.213,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2008,1615.3,3936.486,2.437,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2009,1574.3,5092.86,3.235,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2010,1579.1,3917.747,2.481,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2011,1707.0,5576.769,3.267,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2012,1657.9,4597.357,2.773,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2013,1558.9,5106.956,3.276,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2014,1662.7,4738.695,2.85,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2015,1639.7,4766.608,2.907,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2016,1570.5,5148.099,3.278,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2017,1628.2,5060.446,3.108,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2018,1688.0,4723.024,2.798,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2019,1597.7,4797.893,3.003,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2020,1569.5,4765.002,3.036,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2021,1548.9,5179.522,3.344,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2022,1693.0,5671.55,3.35,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2023,1630.2,5855.678,3.592,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2024,1595.1,5471.193,3.43,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,wheat,rabi,2025,1661.8,5038.578,3.032,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2008,1697.5,4702.075,2.77,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2009,1789.2,5025.863,2.809,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2010,1656.6,3977.497,2.401,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2011,1669.9,5073.156,3.038,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2012,1716.1,4496.182,2.62,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2013,1706.7,4770.226,2.795,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2014,1676.0,5105.096,3.046,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2015,1753.7,4870.025,2.777,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2016,1693.2,4341.365,2.564,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2017,1711.6,4799.326,2.804,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2018,1660.2,4192.005,2.525,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2019,1787.9,5347.609,2.991,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2020,1801.7,5390.686,2.992,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2021,1617.8,4825.897,2.983,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2022,1812.0,5461.368,3.014,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2023,1643.7,4847.271,2.949,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2024,1681.3,4589.949,2.73,synthetic_demo,SYNTHETIC_FIXTURE
+OD-KOR,Odisha,Koraput,maize,kharif,2025,1751.3,4598.914,2.626,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2008,1714.8,5321.024,3.103,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2009,1647.2,5859.09,3.557,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2010,1605.8,5177.099,3.224,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2011,1748.6,6232.01,3.564,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2012,1631.5,5999.025,3.677,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2013,1596.5,5006.624,3.136,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2014,1616.3,5516.432,3.413,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2015,1703.5,6440.934,3.781,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2016,1642.4,5791.102,3.526,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2017,1611.9,5646.486,3.503,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2018,1784.3,6230.776,3.492,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2019,1689.6,5861.222,3.469,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2020,1654.4,5901.245,3.567,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2021,1675.0,6442.05,3.846,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2022,1618.5,6054.809,3.741,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2023,1611.3,5518.702,3.425,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2024,1688.1,5931.983,3.514,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,rice,kharif,2025,1707.9,6139.901,3.595,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2008,1666.7,4835.097,2.901,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2009,1825.0,5648.375,3.095,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2010,1745.3,5452.317,3.124,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2011,1705.6,5551.728,3.255,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2012,1677.1,5334.855,3.181,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2013,1831.7,5962.184,3.255,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2014,1793.7,4842.99,2.7,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2015,1713.6,5447.534,3.179,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2016,1788.2,5795.556,3.241,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2017,1844.6,6306.687,3.419,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2018,1843.5,4769.135,2.587,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2019,1732.6,5927.225,3.421,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2020,1755.2,6120.382,3.487,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2021,1822.7,5236.617,2.873,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2022,1712.9,5626.877,3.285,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2023,1812.3,5523.89,3.048,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2024,1747.0,6032.391,3.453,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,wheat,rabi,2025,1713.5,6072.644,3.544,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2008,1924.9,5320.424,2.764,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2009,1747.4,4717.98,2.7,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2010,1848.3,5454.333,2.951,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2011,1734.6,4858.615,2.801,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2012,1804.4,5884.148,3.261,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2013,1815.0,5261.685,2.899,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2014,1845.3,5904.96,3.2,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2015,1809.6,5875.771,3.247,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2016,1899.7,5769.389,3.037,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2017,1799.9,5356.502,2.976,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2018,1902.7,5599.646,2.943,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2019,1736.5,5204.291,2.997,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2020,1903.2,6651.684,3.495,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2021,1782.2,5770.764,3.238,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2022,1850.6,4552.476,2.46,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2023,1888.9,5730.923,3.034,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2024,1782.6,4930.672,2.766,synthetic_demo,SYNTHETIC_FIXTURE
+UP-LKO,Uttar Pradesh,Lucknow,maize,kharif,2025,1730.3,4348.244,2.513,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2008,1798.5,5640.096,3.136,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2009,1742.7,5860.7,3.363,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2010,1725.7,5710.341,3.309,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2011,1891.6,6446.573,3.408,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2012,1759.0,6613.84,3.76,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2013,1890.3,6417.569,3.395,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2014,1761.5,6461.182,3.668,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2015,1895.4,6637.691,3.502,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2016,1736.5,5796.437,3.338,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2017,1746.0,6355.44,3.64,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2018,1722.9,5542.569,3.217,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2019,1752.7,6002.997,3.425,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2020,1753.2,6357.103,3.626,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2021,1760.9,7239.06,4.111,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2022,1777.7,5311.768,2.988,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2023,1770.1,7078.63,3.999,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2024,1717.2,5951.815,3.466,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,rice,kharif,2025,1826.3,5999.396,3.285,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2008,1836.9,5988.294,3.26,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2009,1847.6,6250.431,3.383,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2010,1838.0,6098.484,3.318,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2011,1845.6,6053.568,3.28,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2012,1815.5,5005.334,2.757,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2013,1826.5,6431.106,3.521,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2014,1893.5,5873.637,3.102,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2015,1955.9,6759.59,3.456,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2016,1836.8,7295.77,3.972,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2017,1857.1,5991.005,3.226,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2018,1805.2,5879.536,3.257,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2019,1887.6,6655.678,3.526,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2020,1860.1,5745.849,3.089,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2021,1847.0,6872.687,3.721,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2022,1797.9,6334.002,3.523,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2023,1910.2,6571.088,3.44,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2024,1801.9,6364.311,3.532,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,wheat,rabi,2025,1844.2,4496.16,2.438,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2008,1898.9,5016.894,2.642,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2009,2021.9,5918.101,2.927,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2010,1924.5,5636.86,2.929,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2011,2017.8,5760.819,2.855,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2012,1990.2,5883.031,2.956,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2013,1855.3,5445.306,2.935,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2014,1864.6,5161.213,2.768,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2015,1951.1,5775.256,2.96,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2016,1964.0,5587.58,2.845,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2017,1849.4,5156.127,2.788,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2018,1917.5,5206.012,2.715,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2019,1993.4,5880.53,2.95,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2020,1987.9,6689.284,3.365,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2021,1874.9,5525.33,2.947,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2022,1997.8,6157.22,3.082,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2023,2014.8,6429.227,3.191,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2024,1986.9,6362.054,3.202,synthetic_demo,SYNTHETIC_FIXTURE
+UP-GOR,Uttar Pradesh,Gorakhpur,maize,kharif,2025,1944.2,5064.641,2.605,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2008,1972.7,7141.174,3.62,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2009,1885.0,5609.76,2.976,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2010,1979.3,6266.464,3.166,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2011,1888.7,6542.457,3.464,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2012,1856.7,6992.332,3.766,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2013,2003.2,7195.494,3.592,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2014,2014.7,6702.907,3.327,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2015,1896.3,6310.886,3.328,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2016,1908.9,6511.258,3.411,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2017,2008.1,7568.529,3.769,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2018,1841.5,6209.538,3.372,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2019,1920.3,6027.822,3.139,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2020,2004.0,6743.46,3.365,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2021,2003.4,7576.859,3.782,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2022,1969.4,7079.993,3.595,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2023,1874.5,7681.701,4.098,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2024,1834.0,7453.376,4.064,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,rice,kharif,2025,1823.6,4920.073,2.698,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2008,1944.0,6475.464,3.331,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2009,1947.7,6612.441,3.395,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2010,2051.8,7056.14,3.439,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2011,1916.3,5861.962,3.059,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2012,2013.3,6881.459,3.418,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2013,1983.7,5703.137,2.875,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2014,1978.4,6688.97,3.381,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2015,1977.2,5680.496,2.873,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2016,1887.6,5726.978,3.034,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2017,2005.5,6750.513,3.366,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2018,1930.8,5157.167,2.671,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2019,1940.2,7147.697,3.684,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2020,2052.1,7631.76,3.719,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2021,2000.0,7442.0,3.721,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2022,2026.8,6530.35,3.222,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2023,2039.8,7386.116,3.621,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2024,1934.4,7269.475,3.758,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,wheat,rabi,2025,1971.6,6693.582,3.395,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2008,2147.8,6202.846,2.888,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2009,2072.9,6098.472,2.942,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2010,1974.5,5108.032,2.587,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2011,2097.4,6424.336,3.063,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2012,2020.0,5425.72,2.686,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2013,2006.9,5641.396,2.811,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2014,2102.1,6136.03,2.919,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2015,2127.1,4432.876,2.084,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2016,1976.1,5286.067,2.675,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2017,2001.4,6064.242,3.03,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2018,1972.0,4963.524,2.517,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2019,2146.3,6468.948,3.014,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2020,1956.7,6022.723,3.078,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2021,1977.3,6663.501,3.37,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2022,2057.6,6181.03,3.004,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2023,1998.2,5780.793,2.893,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2024,1985.8,6418.106,3.232,synthetic_demo,SYNTHETIC_FIXTURE
+UP-VAR,Uttar Pradesh,Varanasi,maize,kharif,2025,2139.8,4925.82,2.302,synthetic_demo,SYNTHETIC_FIXTURE

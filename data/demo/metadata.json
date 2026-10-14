@@ -1,0 +1,18 @@
+{
+  "data_status": "synthetic_demo",
+  "synthetic": true,
+  "seed": 2417,
+  "historical_yield_years": [
+    2008,
+    2025
+  ],
+  "exposure_years": [
+    2008,
+    2026
+  ],
+  "forward_issue_year": 2026,
+  "yield_rows": 540,
+  "exposure_rows": 570,
+  "bulletin_rows": 50,
+  "warning": "Generated fixtures are not real measurements and must not support field or policy decisions."
+}
