@@ -1,32 +1,49 @@
-# India Crop-Loss and Harvest-Risk Forecasting — case study template
+# CropLens India: observed-data crop production and yield-risk analysis
 
 ## Executive summary
 
-This project provides a reproducible workflow for district/crop/season yield anomaly screening. It joins official outcome snapshots to issue-time-safe weather and vegetation summaries, compares chronological baselines with ML models, and presents evidence coverage for analyst review. Advisory NLP and leaf-disease vision remain separate evidence tracks.
+The released Streamlit dashboard analyzes real annual Ministry of Agriculture & Farmers Welfare APY/UPAG records obtained through the India Data Portal CKAN API. It combines source validation, historical anomaly screening and chronological random-forest evaluation. This report replaces the earlier synthetic-demo case-study template; synthetic fixtures belong to a separate offline software workflow.
 
-## Current result status
+## Dataset and release
 
-**The included run is synthetic software demonstration only.** No source-backed model skill, actual district risk ranking, crop loss estimate, early-warning lead time, or field diagnosis is claimed. Replace this section only after the source bundle and validation evidence described in `docs/validation.md` have been reviewed.
+The bundled snapshot was retrieved on 14 October 2026 and contains **156,189 rows**, covering **2013-14 through 2024-25**, **34 states/UTs**, **766 district identifiers**, **30 crop identifiers** and **3 seasons**. It contains 1,126 missing yields (0.72%), zero duplicate analysis keys and zero negative reported yields. District identifiers are source identifiers, not a validated geographic boundary crosswalk.
 
-| Evidence | Current status |
+The app uses a six-hour cache and manual refresh, checks schema and source license metadata, and falls back to a SHA-256-verified snapshot when the API is unavailable. Source attribution and manifest remain in `data/public/`. See [snapshot analysis](production_snapshot_analysis.md) for provenance and detailed quality counts.
+
+## Features and target
+
+The unit is district/crop/season/reporting year. A low-yield event is yield at least 15% below the median of available observations in the five preceding calendar years, requiring at least three observations. The panel includes 98,907 rows with sufficient history, of which 17,245 meet this historical flag.
+
+Features include yield lags 1-3, prior area, prior median and standard deviation, and prior yield trend. Lag checks enforce expected year offsets; the baseline window uses actual years rather than assuming adjacent rows are consecutive years. Missing years therefore do not silently extend the five-year reference window. No current-year outcome is used as a predictor.
+
+## Evaluation and results
+
+Each expanding-year fold trains only on earlier reporting years. The default Rice benchmark pools 2,780 held-out rows from the final three years.
+
+| Reporting year | Rows | Event rate | AP | ROC-AUC | Brier score |
+|---|---:|---:|---:|---:|---:|
+| 2022-23 | 1,012 | 0.095 | 0.136 | 0.597 | 0.200 |
+| 2023-24 | 891 | 0.158 | 0.292 | 0.645 | 0.192 |
+| 2024-25 | 877 | 0.139 | 0.476 | 0.792 | 0.171 |
+| Pooled | 2,780 | 0.129 | 0.285 | 0.681 | 0.188 |
+
+The pooled AP is approximately **2.2 times the prevalence baseline**. This is an AP-to-prevalence ratio, not top-decile lift or intervention impact. The model Brier score (0.188) is worse than the constant-prevalence baseline (0.112); probabilities remain uncalibrated. Ranking performance varies by year. These results establish a retrospective benchmark, not validated prospective crop forecasting.
+
+## Released app versus offline research
+
+| Component | Status |
 |---|---|
-| Official district/crop yield panel | Not included; user must retrieve a permitted source snapshot |
-| Weather/satellite features | Synthetic fixture only; no operational feed or crop mask |
-| Advisory text | Synthetic placeholder bulletins only |
-| Leaf disease images | Not included; external benchmark required |
-| Temporal generalization | Not established on observed outcomes |
-| Operational decision | Not authorized; analyst demo only |
+| `dashboard/app.py`, `live_data.py`, `production_analysis.py` | Released observed-data dashboard and evaluation |
+| `data/public/` | Attributed APY/UPAG snapshot and manifest |
+| `data/demo/` and `crop-risk demo` | Synthetic fixtures for offline software-path exercises; not the released source data |
+| Weather, satellite, advisory NLP and leaf-disease vision | Separate research/demo components; not linked to or fused into the released annual-data model |
 
-## Analysis design
+The demo fixtures are retained for reproducibility of the offline workflow. Their presence does not mean the public dashboard uses synthetic crop outcomes. Future modules in the project blueprint are not completed production capabilities.
 
-The forecast unit is district × crop × season × year. Expected yield is a trailing median of prior outcomes. Yield anomaly is measured against that prior-only baseline; a provisional −15% threshold defines the risk label, with −10%/−20% sensitivity planned. Every training and evaluation split must respect year order.
+## Reproduction and interpretation
 
-Weather/satellite features are cutoff-aware. Advisory extracts retain source evidence. Disease-image evaluation is separate because its images are not paired to district yields. The system suppresses predictions when evidence support is low or out of distribution.
+From the repository root, run `uv sync --locked` then `uv run streamlit run dashboard/app.py`. The dashboard exposes the source vintage, fallback status and chronological benchmark. `uv run python scripts/refresh_live_snapshot.py` refreshes the attributed source snapshot; a later snapshot may produce different counts and metrics.
 
-## Interpretation
+Use this app to explore historical yield patterns and inspect model behavior. Annual data do not describe current field conditions. Weather/satellite fusion, causal loss attribution, independent future validation and reliable calibrated probabilities remain future work. The app should not determine agronomic advice, insurance, credit or relief eligibility.
 
-On a real source panel, the report should compare MAE/RMSE and interval coverage against the trailing-median baseline, report class balance and risk calibration, and show state/crop/time/coverage slices. Associations are predictive, not causal. A high anomaly-risk probability is a request for analyst attention, not proof of crop loss or a trigger for aid or insurance.
-
-## Reproducibility
-
-Use the run manifest to record source checksums, code/config versions, cutoff, and data status. Keep source records and row-level outputs out of public Git unless redistribution and privacy review explicitly allow them. The `SIMULATED_DEMO` label must remain visible whenever synthetic data are displayed.
+See [model card](../docs/model_card.md), [runbook](../docs/runbook.md), [source and results](production_snapshot_analysis.md), and [implementation](../src/crop_risk/production_analysis.py).

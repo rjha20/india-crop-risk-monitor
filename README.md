@@ -7,6 +7,8 @@ attribution, and includes a time-ordered machine-learning backtest.
 > **Scope:** this application is a retrospective analyst tool. It is not an operational crop forecast, an
 > agronomic advisory service, or a source of farmer, insurance, credit, relief, or policy decisions.
 
+Read the [observed-data case study](reports/final_case_study.md) for the released dataset, model results and the separation from offline demo components.
+
 ## Current release
 
 - Public APY/UPAG source integration through the India Data Portal's CKAN DataStore API, with a manual
